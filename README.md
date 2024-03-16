@@ -22,3 +22,6 @@ A successor of [SAVE RESTRICTED CONTENT BOT REPO](https://github.com/devgaganin/
 
 ## Support:
 For any questions or assistance, you can reach out to [Dev Gagan](https://t.me/dev_gagan) on Telegram.
+
+## Terms of Use 
+Visit [Terms of Use](https://github.com/devgaganin/Save-Restricted-Content-Bot-with-Login/blob/main/TERMS%20OF%20USE.md) and you must be bounded by above terms
